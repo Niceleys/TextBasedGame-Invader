@@ -1,4 +1,3 @@
-# Sydney H. L. Ponko
 def user_instructions():  # Introduction and instructions for play.
     print('-----------------------------')
     print('Welcome to the text based game: Intruder')
@@ -96,4 +95,4 @@ def main():
 
 main()
 
-input('To exit this program anything and hit enter.\n')
+input('To exit this program press anything and hit enter.\n')
